@@ -145,5 +145,5 @@ Screenshots can be added here after capturing the simulator in a browser.
 
 ## 👤 Author
 
-**Harshit singh**
+**Manas Jaiswal**
 
