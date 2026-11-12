@@ -1,5 +1,5 @@
-# 🔌 Digital Electronics Logic Gate Simulator
-
+ # 🔌 Digital Electronics Logic Gate Simulator
+ [@profprabhat7-lang](https://github.com/profprabhat7-lang)
 <p align="center">
   <strong>Explore digital logic by changing an input and watching the circuit respond.</strong><br>
   A local, interactive learning lab for logic gates, Boolean expressions, truth tables, and foundational circuits.
